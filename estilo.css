@@ -1,0 +1,35 @@
+body {
+
+    background: rgb(173, 173, 30);
+    color: rgb(2, 2, 68);
+    font-family: "SUSE", sans-serif;
+
+    margin-bottom: 180px;
+    margin-top: 40px;
+
+}
+
+header {
+    margin: 0px;
+    border-bottom: solid 2px rgb(23, 23, 173);
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(2, 2, 68);
+}
+
+.texto {
+
+    background: rgb(32, 87, 32);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto-chamativo {
+
+    margin-right: 5%;
+    justify-content;
+    font-size: 40px;
+    
+}
